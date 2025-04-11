@@ -1,4 +1,4 @@
-# 🍕 Pizza-Sales-Analysis-Project-Using-SQL  
+# 🍕 Pizza-Sales-Analysis-Using-SQL & Excel 
 📊 Unlocking Business Insights from Pizza Sales Data
 
 ---
