@@ -1,1 +1,1 @@
-# SQL_-_-Excel_Data_Analysis_Project
+# SQL-Excel_Data_Analysis_Project
